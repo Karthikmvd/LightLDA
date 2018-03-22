@@ -1,7 +1,6 @@
 # build lightlda
 
 git clone -b multiverso-initial git@github.com:Microsoft/multiverso.git
-cp /home/rhel/karthi/lightlda/light_lda_fix.tgz .
 tar -xvzf light_lda_fix.tgz
 
 cd multiverso
